@@ -32,4 +32,4 @@ author:
 - 提高自己的表述能力
 - 交流技术，记录成长
 
-![这是图片](https://drawing-bed-haichuan.oss-cn-beijing.aliyuncs.com/2023/04/30/bg.jpeg?Expires=1682867331&OSSAccessKeyId=TMP.3KiD5V5qDo4TsMUSPFdhd88BjV9mVm2tghGAToGQaS8m9abbbwuJiLaYb1FeaEH9QAHGXFJq3VW15U16t5UzW6G3n49ghx&Signature=Z07CKG2qVWq0HC18DaG9AhejASc%3D)
+![这是图片](https://drawing-bed-haichuan.oss-cn-beijing.aliyuncs.com/2023/04/30/bg.jpeg)
