@@ -102,7 +102,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
     // 博主信息 (显示在首页侧边栏)
     blogger: {
-      avatar: 'https://fastly.jsdelivr.net/gh/xugaoyi/image_store/blog/20200103123203.jpg',
+      avatar: 'https://drawing-bed-haichuan.oss-cn-beijing.aliyuncs.com/head.JPG',
       name: '谢海川',
       slogan: '拒绝花里胡哨，专注文章内容',
     },
